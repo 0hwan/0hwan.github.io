@@ -1,5 +1,5 @@
 ---
-title: "2020년 6월 나의 북마크"
+title: "Golang 북마크"
 # header:
 #   image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
 categories:
