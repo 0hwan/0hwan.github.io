@@ -16,3 +16,5 @@ toc_sticky: true
 - [Go의 철학](https://marsettler.com/the-zen-of-go/)
 
 - [A Tour of Go](https://go-tour-kr.appspot.com/#1)
+
+- [표준 Go 프로젝트 레이아웃(Standard Go Project Layout)](https://github.com/byounghoonkim/project-layout/tree/translate-ko?fbclid=IwAR1Bh19xaeKYZ0hqBKCpGSlrUgc_4q6MZQIj3_yH4jMB9XfH9GNMk51khuU)
