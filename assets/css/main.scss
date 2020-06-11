@@ -4,8 +4,12 @@
 
 @charset "utf-8";
 
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+// @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 
 
 html {
