@@ -34,6 +34,4 @@ toc_sticky: true
 
 - [프로덕션 환경에서 사용하는 golang과 gRPC](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 
-- [노트 작성법을 통해 커리어 변환](https://sungkukpark.github.io/tlsl-how-to-use-note-taking-to-utterly-transform-your-career/)
-
 - [Node.js 모범사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
