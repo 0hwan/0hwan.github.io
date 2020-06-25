@@ -28,7 +28,7 @@ toc_sticky: true
     ```
   * VGA Driver 확인
     ```
-    $ sudo lspci | grep VGI
+    $ sudo lspci | grep VGA
     ```
     01:00.0 VGA compatible controller: `NVIDIA Corporation GM107 [GeForce GTX 750]` (rev a2)
 
