@@ -1,10 +1,12 @@
 ---
-title: "Docker 북마크(2020년 6월)"
+title: "Kubernetes/Docker 북마크(2020년 6월)"
 # header:
 #   image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
 categories:
+  - Kubernetes
   - docker
 tags:
+  - Kubernetes
   - docker
 toc: false
 toc_label: "목차"
@@ -23,3 +25,4 @@ toc_sticky: true
 
 - [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](http://jaynewho.com/post/42)
 
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
