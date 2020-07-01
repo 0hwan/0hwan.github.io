@@ -26,3 +26,5 @@ toc_sticky: true
 - [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](http://jaynewho.com/post/42)
 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+
+- [쿠버네티스(kubernetes) 설치 및 환경 구성하기](https://medium.com/finda-tech/overview-8d169b2a54ff)

@@ -15,3 +15,5 @@ toc_sticky: true
 - [A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 
 - [Examining ARM vs X86 Memory Models with Rust](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
+
+- [Introduction to Rust for Node Developers](https://dev.to/tindleaj/introduction-to-rust-for-node-developers-3j05)
